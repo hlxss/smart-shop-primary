@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/smart-shop-personal-center/smart-shop-personal-data/smart-shop-personal-address/smart-shop-personal-address.iml" filepath="$PROJECT_DIR$/smart-shop-personal-center/smart-shop-personal-data/smart-shop-personal-address/smart-shop-personal-address.iml" />
       <module fileurl="file://$PROJECT_DIR$/smart-shop-personal-center/smart-shop-personal-data/smart-shop-personal-cente.iml" filepath="$PROJECT_DIR$/smart-shop-personal-center/smart-shop-personal-data/smart-shop-personal-cente.iml" />
       <module fileurl="file://$PROJECT_DIR$/smart-shop-personal-center/smart-shop-personal-center.iml" filepath="$PROJECT_DIR$/smart-shop-personal-center/smart-shop-personal-center.iml" />
       <module fileurl="file://$PROJECT_DIR$/smart-shop-personal-center/smart-shop-personal-data/smart-shop-personal-details/smart-shop-personal-data.iml" filepath="$PROJECT_DIR$/smart-shop-personal-center/smart-shop-personal-data/smart-shop-personal-details/smart-shop-personal-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-shop-personal-center/smart-shop-personal-data/smart-shop-personal-pay/smart-shop-personal-pay.iml" filepath="$PROJECT_DIR$/smart-shop-personal-center/smart-shop-personal-data/smart-shop-personal-pay/smart-shop-personal-pay.iml" />
       <module fileurl="file://$PROJECT_DIR$/smart-shop-primary.iml" filepath="$PROJECT_DIR$/smart-shop-primary.iml" />
     </modules>
   </component>

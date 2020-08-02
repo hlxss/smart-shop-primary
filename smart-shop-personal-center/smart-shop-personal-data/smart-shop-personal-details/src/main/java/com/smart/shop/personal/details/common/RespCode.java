@@ -37,6 +37,9 @@ public enum RespCode {
     /*暂无权限*/
     PERMISSION_NO_ACCESS(20006, "no permissions access", "暂无权限"),
     AUTH_ERROR(20007, "auth error", "认证失败"),
+    USERNAME_EXIST(20008, "username exist", "用户名已存在,修改失败,请重新输入"),
+    EMAIL_EXIST(20009, "email exist", "邮箱已存在,修改失败,请重新输入"),
+    PHONE_EXIST(20010, "phone exist", "电话号码已存在,修改失败,请重新输入"),
     /* 业务错误 */
     /* 业务繁忙 请稍后在试 */
     BUSINESS_UNKNOW_ERROR(30001, " busy with business", "业务繁忙 请稍后在试"),

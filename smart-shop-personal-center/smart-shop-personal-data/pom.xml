@@ -24,6 +24,8 @@
     </properties>
     <modules>
         <module>smart-shop-personal-details</module>
+        <module>smart-shop-personal-address</module>
+        <module>smart-shop-personal-pay</module>
     </modules>
 
     <build>
